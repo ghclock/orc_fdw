@@ -1,0 +1,6 @@
+Makefile
+.idea/
+CMakeLists.txt
+*.o
+*.so
+bck/

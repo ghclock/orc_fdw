@@ -1,0 +1,4 @@
+#!/bin/sh
+rm -rf orc_fdw.*o
+
+sudo make USE_PGXS=1 install
